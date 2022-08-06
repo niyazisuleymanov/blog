@@ -1,0 +1,9 @@
+baseURL = 'https://www.niyazisuleymanov.com/'
+languageCode = 'en-us'
+title = 'Niyazi Suleymanov'
+theme = 'paper'
+math = true
+[params]
+    github = 'niyazisuleymanov'
+    disableHLJS = false 
+    monoDarkIcon = true
